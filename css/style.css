@@ -1,8 +1,9 @@
 .aboutme{
   /* background-color: #CDE658; */
   background-color: #4352DC;
-  padding: 120px 10px;
+  padding: 70px 30px;
   text-align: center;
+
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
   font-family: 'Cutive Mono', monospace;
   color: lightgrey;
 }
+
 p{
   font-family: 'Cutive Mono', monospace;
 }
@@ -29,26 +31,15 @@ p{
   margin-right: auto;
   margin-top: -10px;
 }
+
 .btn-group button {
   background-color: grey; /* Green background */
   border: 1px solid white; /* Green border */
   color: white; /* White text */
-  padding: 24px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
+  padding: 20px 44px; /* Some padding */
   float: left; /* Float the buttons side by side */
   font-family: 'Cutive Mono', monospace;
   margin: auto;
-}
-
-.btn-group button:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
-
-/* Clear floats (clearfix hack) */
-.btn-group:after {
-  content: "";
-  clear: both;
-  display: table;
 }
 
 /* Add a background color on hover */
@@ -59,9 +50,8 @@ p{
 .center{
 margin: 0;
 position: absolute;
-top: 95%;
-right: 20%;
-left: 40%;
+top: 87%;
+left: 38%;
 }
 
 .interest {
@@ -85,7 +75,7 @@ ul {
 }
 footer{
   background-color: white;
-  padding: 50px 10px;
+  padding: 30px 10px;
   color: #4352DC;
   font-family: 'Cutive Mono', monospace;
   text-align: center;
