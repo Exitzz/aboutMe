@@ -1,26 +1,25 @@
 .aboutme{
   /* background-color: #CDE658; */
-  background-color: #58D4B1;
+  background-color: #4352DC;
   padding: 120px 10px;
-
   text-align: center;
 }
 
 h1 {
   font-size: 60px;
-  font-family: 'Give You Glory', cursive;
-  color: #AF0657;
+  font-family: 'Major Mono Display', monospace;
+  color: lightgrey;
 }
 
-h2{
+.aboutme h2{
   font-family: 'Cutive Mono', monospace;
-  color: #AF0657;
+  color: lightgrey;
 }
 p{
   font-family: 'Cutive Mono', monospace;
 }
 
-img {
+.aboutme img {
   border-radius: 60%;
   width: 270px;
   height: 250px;
@@ -28,13 +27,13 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
+  margin-top: -10px;
 }
 .btn-group button {
   background-color: grey; /* Green background */
   border: 1px solid white; /* Green border */
   color: white; /* White text */
-  padding: 30px 24px; /* Some padding */
+  padding: 24px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   float: left; /* Float the buttons side by side */
   font-family: 'Cutive Mono', monospace;
@@ -54,13 +53,40 @@ img {
 
 /* Add a background color on hover */
 .btn-group button:hover {
-  background-color: #7B0650;
+  background-color: #E9980D;
 }
 
 .center{
 margin: 0;
 position: absolute;
-top: 100%;
+top: 95%;
 right: 20%;
 left: 40%;
+}
+
+.interest {
+  background-color: #DBE0E4;
+  padding: 120px 10px;
+
+}
+.interest h2{
+  color: #4352DC;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 30px;
+  text-align: center;
+}
+ul {
+  color: #4352DC;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 21px;
+  list-style: none;
+  text-align: center;
+  line-height: 2;
+}
+footer{
+  background-color: white;
+  padding: 50px 10px;
+  color: #4352DC;
+  font-family: 'Cutive Mono', monospace;
+  text-align: center;
 }
