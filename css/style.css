@@ -25,14 +25,13 @@ h1
 
 div {
   font-family: 'Cutive Mono', monospace;
-  padding-top: 80px;
+  padding-top: 50px;
   color: white;
 
 }
 img {
-  border-radius: 60%;
-  width: 270px;
-  height: 250px;
+  width: 310px;
+  height: 300px;
   line-height: 3;
   display: block;
   margin-left: auto;
@@ -42,7 +41,7 @@ img {
 
 .interest {
   background-color: #333333;
-  padding: 100px 10px;
+  padding: 80px 10px;
 
 }
 .interest h2{
