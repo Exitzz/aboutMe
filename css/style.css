@@ -2,7 +2,7 @@
 
 .aboutme{
   background-color:#333333;
-  padding: 100px 30px;
+  padding: 85px 30px;
   text-align: center;
 
 }
@@ -25,7 +25,7 @@ h1
 
 div {
   font-family: 'Cutive Mono', monospace;
-  padding-top: 50px;
+  padding-top: 30px;
   color: white;
 
 }
@@ -41,7 +41,7 @@ img {
 
 .interest {
   background-color: #333333;
-  padding: 100px 10px;
+  padding: 80px 10px;
 
 }
 .interest h2{
