@@ -65,6 +65,10 @@ ul {
   padding: 0 50px;
   margin-bottom: 50px;
 }
+.letter p{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 20px;
+}
 footer{
   background-color: #ffc40c;
   padding: 30px 10px;
