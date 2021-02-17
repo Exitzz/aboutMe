@@ -50,6 +50,7 @@ img {
   font-size: 30px;
   text-align: center;
 }
+
 ul {
   padding-top: 30px;
   color: #ffd800;
@@ -59,26 +60,29 @@ ul {
   text-align: center;
   line-height: 2;
 }
+
 .letter {
   font-family: 'Cutive Mono', monospace;
   font-size: 20px;
   padding: 20px 50px;
   line-height: 40px;
   background-color: #F6F3DB;
-
-
 }
+
 .letter h1{
   color: #CCBC09;
 }
+
 .letter p{
   font-family: 'Cutive Mono', monospace;
   font-size: 20px;
   color: #535352;
 }
+
 .letter a{
   text-decoration: none;
 }
+
 footer{
   background-color: #ffc40c;
   padding: 10px;
