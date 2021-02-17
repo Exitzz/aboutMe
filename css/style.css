@@ -41,7 +41,7 @@ img {
 
 .interest{
   background-color: #333333;
-  padding: 80px 10px;
+  padding: 70px 10px;
 
 }
 .interest h2{
@@ -62,16 +62,26 @@ ul {
 .letter {
   font-family: 'Cutive Mono', monospace;
   font-size: 20px;
-  padding: 0 50px;
-  margin-bottom: 50px;
+  padding: 20px 50px;
+  line-height: 40px;
+  background-color: #F6F3DB;
+
+
+}
+.letter h1{
+  color: #CCBC09;
 }
 .letter p{
   font-family: 'Cutive Mono', monospace;
   font-size: 20px;
+  color: #535352;
+}
+.letter a{
+  text-decoration: none;
 }
 footer{
   background-color: #ffc40c;
-  padding: 30px 10px;
+  padding: 10px;
   color: black;
   font-family: 'Cutive Mono', monospace;
   text-align: center;
