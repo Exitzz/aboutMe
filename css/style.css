@@ -41,7 +41,7 @@ img {
 
 .interest{
   background-color: #333333;
-  padding: 130px 10px;
+  padding: 115px 10px;
 
 }
 .interest h2{
@@ -69,11 +69,7 @@ ul {
   background-color: #F6F3DB;
 }
 
-.letter h1{
-  color: #CCBC09;
-}
-
-.letter p{
+.letter p, .letter h1{
   font-family: 'Cutive Mono', monospace;
   font-size: 20px;
   color: #535352;
