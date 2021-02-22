@@ -2,7 +2,7 @@
 
 .aboutme{
   background-color:#333333;
-  padding: 85px 30px;
+  padding: 120px 30px;
   text-align: center;
 
 }
@@ -36,12 +36,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -60px;
+  margin-top: -10px;
 }
 
 .interest{
   background-color: #333333;
-  padding: 115px 10px;
+  padding: 135px 10px;
 
 }
 .interest h2{
