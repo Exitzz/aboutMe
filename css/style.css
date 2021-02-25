@@ -9,7 +9,7 @@
 
 h1
 {
-  font-size: 80px;
+  font-size: 50px;
   color: #ffc40c;
   font-family: 'Cutive Mono', monospace;
   padding-bottom: 20px;
@@ -20,6 +20,7 @@ h1
   font-family: 'Cutive Mono', monospace;
   color: #ffc40c;
   bottom: 20px;
+  font-size: 30px;
 
 }
 
@@ -36,12 +37,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -60px;
+  margin-top: 50px;
 }
 
 .interest{
   background-color: #333333;
-  padding: 115px 10px;
+  padding: 80px 10px;
 
 }
 .interest h2{
